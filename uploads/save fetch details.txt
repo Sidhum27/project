@@ -1,0 +1,53 @@
+Access_amount: 78
+Borne_by_emp: "Yes"
+Bugeted: "Yes"
+Bugeted_capex_value: 1200
+CapexTypeid: 1
+Capex_Req_Type: "New Capex"
+Capex_tran_no: "A908E586-1C90-4B25-9F99-54CC7317BF16"
+Categoryid: 1
+Charge_to_CLT: "yes"
+Client_code: "yes"
+Client_name: "NO"
+Clt_Pay_Period: 11
+Clt_Pay_Terms: 14
+Clt_Po_status: "Yes"
+Clt_Remarks: "Any Remarks of client"
+Clt_Sell_Price: 14
+Clt_Sell_Price_Frequency: 5
+Company: "G4S Secure"
+Emp_eligibility: 77
+Emp_name: "Krushan Mohan"
+Employee_code: "G4s-Krisha"
+Exist_Annual_Save: 1400
+Exist_Capex_dtl: 200
+Exist_Remarks: "Any Remarks"
+Exist_Tot_Cap_Saving: 1600
+Exist_Tot_Cap_Val: 1300
+Hub: "BANGALORE"
+Location: "BANGALORE"
+Margin_per: 40
+Modified_by: "krishnamohan.v@in.g4s.com"
+New_Capex_Dtl: 300
+New_annual_save: 800
+New_remarks: "Any New Reamrsk"
+New_tot_cap_saving: 600
+New_tot_cap_val: 500
+Pending_with: "ankush.kumar@in.g4s.com"
+PurchaseID: 1
+Quantity: 15
+Reg_Date: "2021-10-22T00:00:00.000Z"
+Remarks: "Any Remarks"
+Req_Email_id: "krishnamohan.v@in.g4s.com"
+Risk_fac: "Risk factor is here"
+SDFC_app: "Yes"
+Status: "Done"
+Tot_Sell_Price: 57
+Total_Capex_Val: 100
+clt_bug_amt: 1500
+created_by: "krishnamohan.v@in.g4s.com"
+created_date: "2021-10-27T00:00:00.000Z"
+execption_remarks: "Any Remarks"
+modified_date: "2021-10-27T00:00:00.000Z"
+user_email_id: "krishnamohan.v@in.g4s.com"
+user_role_id: 3

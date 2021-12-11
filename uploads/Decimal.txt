@@ -1,0 +1,32 @@
+Rate and price to be decimal
+1.Budgeted Capex Value,---BudgetedCapexValue
+2.Total Capex Value,
+
+item Details Fields:-
+Per Unit Cost
+
+Employee Details-
+
+Employee Eligibility (INR)
+Access Amount (INR)
+
+New Capex Details:-
+
+Budgeted Capex Value
+Total Capex Value (Current)
+Total Capex Savings
+Annualized Savings
+
+Capex Existing Details:-
+Existing Capex Details
+Total Capex Value (Current)
+Total Capex Savings
+Annualized Savings
+
+Client Specific Capex:-
+
+Budgeted Amount
+Client Selling Price Frequency
+Margin (%)
+Client Selling Price
+Total Selling Price
